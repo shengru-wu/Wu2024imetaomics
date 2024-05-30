@@ -1,0 +1,4 @@
+Enterotype	DCAN	DCAN4	DCN	DCN4
+1	4	2	7	4
+2	6	5	9	8
+3	2	5	5	5
